@@ -48,6 +48,10 @@ a  {
     font-size: 12px;
 }
 
+section {
+    min-height: 100vh;
+}
+
 .navbar {
     min-height: 70px;
     display: flex;
